@@ -19,3 +19,9 @@ Installing
 - In "C" drive (assuming you are using a Microsoft machine), look for the xampp folder and navigate inside of it.
 - Inside the "C:/xampp", navigate to "htdocs" and click on the folder to go inside of it.
 - Move the downloaded (zipped folder) to the current directory (htdocs).
+- Unzip the folder.
+- The unzipped folder (hackernewstest-main) should have a folder named "hackernews".
+- Take this folder and copy/move it to the folder "htdocs".
+- Open a browser.
+- In the url bar, assuming the apache server is still running (light is still green), copy and paste this url in there http://localhost:8080/hackernews/views/index.html
+- The homepage of the hackers news site should now be displayed in the browser.
