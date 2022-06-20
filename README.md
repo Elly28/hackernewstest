@@ -15,4 +15,7 @@ Installing
 - Wait for the installation to complete.
 - Once completed, click on the "Start" button in the Control Panel of XAMPP.
 - The server should be up and running (if successful, a green light will go on).
-- Download the code from 
+- Download the code from https://github.com/Elly28/hackernewstest.git
+- In "C" drive (assuming you are using a Microsoft machine), look for the xampp folder and navigate inside of it.
+- Inside the "C:/xampp", navigate to "htdocs" and click on the folder to go inside of it.
+- Move the downloaded (zipped folder) to the current directory (htdocs).
