@@ -1,8 +1,8 @@
 Project Name
-* Hackers News
+* Hacker News
 
 Project Details
-* This project was designed for the intention of displaying news/stories on the hackers news site..
+* This project was designed for the intention of displaying news/stories on the hacker news site..
 
 Pre requisites
 - You will need the following technologies to get the service running :
